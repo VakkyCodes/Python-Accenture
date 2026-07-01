@@ -33,3 +33,4 @@ print(type(fruit))
 x="10";
 y=int(x);
 print(type(x),type(y))
+list=["name",12]
